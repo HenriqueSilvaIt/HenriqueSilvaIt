@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-HenriqueSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henriqueoliveirati/)](https://www.linkedin.com/in/henriqueoliveirati/) 
  [![Gmail Badge](https://img.shields.io/badge/-hikysilva2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hikysilva2@gmail.com)](mailto:hikysilva2@gmail.com)
 - 😄 Pronouns: just Henrique
-- ⚡ Fun fact: I enjoy play music in acoustic guitar and drums
+- ⚡ Fun fact: I enjoy play music in acoustic guitar and play drums
 
