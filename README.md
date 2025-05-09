@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on TIM S.A Billing operations and also I create  fullstack solutions web to some customers that I Have 
+- 🔭 I’m currently working on TIM S.A Billing operations and also I create  fullstack solutions web to some customers that I have 
 - 🌱 I’m currently learning Java Spring Boot reference to improve my skills in Java and create betters solutions
 - 👯 I’m looking to collaborate on projects that I have knowledge
 - 💬 Feel free to ask me about any projects here
