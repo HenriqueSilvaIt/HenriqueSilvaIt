@@ -61,20 +61,19 @@ Here are some ideas to get you started:
 
 * 9 anos de experiência no mercado de tecnologia
 
-* Atulamente, trabalho como Consultor Sênior de TI na empresa TIM S.A, atuando na monitoração de sistemas 
+* Atulamente, trabalho como Consultor Sênior de TI na empresa TIM S.A, atuando na monitoração de sistemas de toda TI em uma equipe de governança, fazendo acompanhamento de projetos e garantia de monitoração e criando soluções tanto na camada da aplicação quanto na camada de infraestrutura de TI.
 
-* Atualmente, atuo como Desenvolvedor Back-End Especialista na empresa Cogna Educação, atuando com tecnologias como Java 11 e 17, microsserviços, API REST, Spring Boot, Micronaut, Grails e Groovy, Kubernetes, AWS, Docker, Docker-compose, PostgreSQL, MongoDB, JWT, Apache Kafka e RabbitMQ e aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade e princípios de SOLID.
+* Voltei a trabalhar como funcionário próprio da TIM S.A  como Consultor Técnico Pleno N2 em equipes de Faturamento, Arrecadação e Cobrança, o meu papel na equipe de Arrecadação e Cobrança, era acompanhar e corrigir qualquer problema na leitura de pagamentos e cobrança dos clientes fatura da TIM. Na equipe de Faturamento meu papel era gerar e acompanhar as faturas dos clientes TIM o acompanhamento era realizado através de servidores unix, script shell e banco de dados Oracle.
 
-* Atuei como Desenvolvedor Back-End Sênior na empresa Ilegra, atuando com Java, Spring Framework e seus projetos, API REST, microsserviços, e ferramentas para DRMS (Decision Rules Management Systems), ou Sistemas de Gerenciamento de Regras de Negócios, como o FICO Blazer Advisor e o OpenL Tablets para tabelas de decisões integradas ao Java.
+* Atuei como Analista de processos Jr após se promovido na Capgemini, meu papel nessa posição era garantir a priorização e solução dos chamados das células prioritárias da companhia (Ouvidoria, Anatel, Procon, Lojas e Top empresas), uma área onde tive muita interação com áreas de negócio e acompnhamento de troubleshooting end-to-end. Fui promovido para Supervisor técnico e comecei a liderar uma equipe de 4 pessoas para atendermos todos essas células prioritárias e garantira  solução desses problemas em TI.
 
-* Atuei como Desenvolvedor Back-End Sênior na empresa X-Brain Desenvolvimento de Sistemas (1 ano e 7 meses) utilizando tecnologias como Java 8, 11 e 13, Spring Boot 2, OAuth2.0, API REST, microsserviços, OracleDB 12c, Python 3, Node.js, Nest.js, Jenkins, Docker, MongoDB, Redis e React.js.
+* Atuei como estágirário no empresa Stefanini, fazendo análise e correção de falhas de VOZ/DADOS/SMS/APP de clientes da empresa TIM  em N1, atentendo chamados com um SLA diário para cumprir.  Após o encerramento do contrato da Stefanini com a TIM S.A. A empresa Capagemini assumiu o contrato e eu realizei a mesma função como Técnico de infraestrutura Jr agora na empresa Capgemini.
 
-* Trabalhei como Estagiário de Infraestrutura de TI na empresa Veltec - A Trimble Company, e, posteriormente,
-fui efetivado com Técnico de Suporte de Infraestrutura de TI para criação de Business Intelligence utilizando banco de dados PostgreSQL e Microsoft Power BI
+* Trabalhei como jovem aprendiz na empresa TIM S.A em um time de governança de Service Desk, apoiando na gestão de incidentes e problemas, geração de relatórios gerências utilizando excel e gestão de alarmes juntamente com uma equipe de especialistas.
 
 ### Voluntáriado
 
-* participei de projetos da diretoria de tecnologia do PMI São Paulo, apoiei no desnvolvimento de soluções tecnológicas e fui responsável por gerenciar
+* Participei de projetos da diretoria de tecnologia do PMI São Paulo, apoiei no desnvolvimento de soluções tecnológicas e fui responsável por gerenciar
 * os usuários voluntários do instituto com a plataforma G-Suite
 
 ## Principais Tecnologias ⚡
