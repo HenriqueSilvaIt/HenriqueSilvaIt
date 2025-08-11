@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * Sou um desenvolvedor back-end com habilidades de programação na linguagem Java (17 - 21), tenho muito conhecimento no ecosisistema do framework Spring Boot e desenvolvo
 * APIs REST. Além disso tenho conhecimento em desenvolvimento web front-end com ReactJs e CD/CI, o que me da uma visão end-to-end do ciclo de vida de desenvolvimento de software.
 
-* Meu objetivo é sair do área de operação e trabalhar na área de desenvolvimento de software, criando  APIs REST com Java Spring e para  isso estudei muito, nos últimos 11 meses adquiri mais de 500 hrs de estudo de programação comprovadas (380hs exclusivamente de Java e Spring Boot) e continuarei sempre me atualizando com as novas as tecnologias do mercado.
+* Meu objetivo é  migrar da área de operação para área de desenvolvimento de software, criando  APIs REST com Java Spring e para  isso estudei muito, nos últimos 11 meses adquiri mais de 500 hrs de estudo de programação comprovadas (380hs exclusivamente de Java e Spring Boot) e continuarei sempre me atualizando com as novas as tecnologias do mercado.
   
 
 ## Principais habilidades 📖:
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 * Spring Framework (Boot, Data JPA, Web, Cloud e Security)
 * React Js
-* 
+
 ## Principais bibliotecas :closed_book:
 
 * Spring Data JPA
