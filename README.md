@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ### Voluntáriado
 
-* Participei de projetos da diretoria de tecnologia do PMI São Paulo, apoiei no desnvolvimento de soluções tecnológicas e fui responsável por gerenciar os usuários voluntários do instituto com a plataforma G-Suite.
+* Participei de projetos da diretoria de tecnologia do PMI São Paulo, apoiei no desenvolvimento de soluções tecnológicas e fui responsável por gerenciar os usuários voluntários do instituto com a plataforma G-Suite.
 
 ## Principais Tecnologias ⚡
 
